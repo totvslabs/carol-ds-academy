@@ -75,7 +75,7 @@ share an environment file.
 To activate a environment use:
 
 * Windows: ``activate env_name`` or ``deactivate env_name``
-* Linux and macOS: ``source activate env_name`` or ``source deactivate env_name``
+* Linux and macOS: ``conda activate env_name`` or ``conda deactivate env_name``
 
 ### Creating an environment with commands
 
@@ -112,12 +112,12 @@ You can also use ``conda info --envs``.
 
 Activating environments is essential to making the software in the environments
 work well. To activate an environment: `activate myenv` for windows and
-`source activate myenv` for linux and macOS.
+`conda activate myenv` for linux and macOS.
 
 ### Deactivating an environment
 
 To deactivate an environment, type: `deactivate` on windows 
-(`source deactivate` on linux and macOS)
+(`conda deactivate` on linux and macOS)
 
 ### Using pip in an environment
 
@@ -130,3 +130,21 @@ conda install -n myenv pip
 conda activate myenv
 pip <pip_subcommand>
 ```
+
+
+## Installing a new environment (kernel) on the jupyter notebook.
+
+It is possible to create a kernel on jupyter with a conda environment. To do so, 
+
+```bash
+conda install -n myenv
+conda activate myenv
+conda install -n myenv ipykernel
+python -m ipykernel install --user --name myenv --display-name "My env kernel"
+```
+
+This will create a new option of kernel in the jupyter lab
+
+![alt text](images/kernel.png)
+
+![alt text](images/jupyter_kernel.png)
