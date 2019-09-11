@@ -148,3 +148,10 @@ This will create a new option of kernel in the jupyter lab
 ![alt text](images/kernel.png)
 
 ![alt text](images/jupyter_kernel.png)
+
+## Removing a kernel on the jupyter notebook.
+
+```bash
+conda deactivate
+jupyter kernelspec uninstall myenv
+```
