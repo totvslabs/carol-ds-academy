@@ -52,9 +52,6 @@ Enter the command `python`. This command runs the Python shell.
 Open Anaconda Navigator with the command anaconda-navigator. 
 If Anaconda is installed properly, the graphical program Anaconda Navigator will open.
 
-## Installing new packages
-
-
 
 # Run Python in a Jupyter Notebook
 
@@ -65,3 +62,71 @@ Navigator e select Jupyter Lab
 
 This will open Jupyter lab. It is a python environment we can play. 
 ![alt text](images/jupyter.png)
+
+
+# Managing  and creating environments 
+
+With conda, you can create, export, list, remove, and update
+environments that have different versions of Python and 
+packages installed. Switching or moving between
+environments is called activating the environment. You can also
+share an environment file.
+
+To activate a environment use:
+
+* Windows: ``activate env_name`` or ``deactivate env_name``
+* Linux and macOS: ``source activate env_name`` or ``source deactivate env_name``
+
+## Creating an environment with commands
+
+```bash
+conda create --name myenv
+```
+conda will ask you to proceed, type ``y``:
+
+To create an environment with a specific version of Python:
+```bash
+conda create -n myenv python=3.6
+```
+To create an environment with a specific package:
+
+```bash
+conda create -n myenv scipy
+```
+or, if the env already exits 
+```bash
+conda install -n myenv scipy
+```
+
+You can add much more to the ``conda create`` command. 
+For details, run ``conda create --help``.
+
+###Verify that the new environment was installed correctly:
+```bash
+conda env list
+```
+You can also use ``conda info --envs``.
+ 
+ 
+## Ativating an environment
+
+Activating environments is essential to making the software in the environments
+work well. To activate an environment: `activate myenv` for windows and
+`source activate myenv` for linux and macOS.
+
+## Deactivating an environment
+
+To deactivate an environment, type: `deactivate` on windows 
+(`source deactivate` on linux and macOS)
+
+Using pip in an environment
+===========================
+
+To use pip in your environment, in your terminal window or an
+Anaconda Prompt, run:
+
+```bash
+conda install -n myenv pip
+conda activate myenv
+pip <pip_subcommand>
+```
