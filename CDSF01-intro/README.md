@@ -52,6 +52,15 @@ Enter the command `python`. This command runs the Python shell.
 Open Anaconda Navigator with the command anaconda-navigator. 
 If Anaconda is installed properly, the graphical program Anaconda Navigator will open.
 
-# Jupyter Notebooks
+## Installing new packages
 
-We are going to use jupyter notebooks during the lessons.
+
+
+# Run Python in a Jupyter Notebook
+
+We are going to use jupyter notebooks during the lessons. To start a notebook, Open Anaconda 
+Navigator e select Jupyter Lab
+![alt text](images/navegator.png)
+
+This will open Jupyter lab. It is a python environment we can play. 
+![alt text](images/jupyter.png)
