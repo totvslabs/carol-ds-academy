@@ -60,6 +60,7 @@ If Anaconda is installed properly, the graphical program Anaconda Navigator will
 
 We are going to use jupyter notebooks during the lessons. To start a notebook, Open Anaconda 
 Navigator e select Jupyter Lab
+
 ![alt text](images/navegator.png)
 
 This will open Jupyter lab. It is a python environment we can play. 
