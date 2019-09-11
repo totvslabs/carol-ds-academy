@@ -9,5 +9,5 @@ To install it is easy, double click the installer to launch. Follow the instruct
 shown a message to add Anaconda to the PATH. I recommend to select this option if this is the first python distribution
 you are installing.
 
-![Intall](.images/conda.jpg)
+![alt text](images/conda.png)
  
