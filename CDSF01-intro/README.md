@@ -77,7 +77,7 @@ To activate a environment use:
 * Windows: ``activate env_name`` or ``deactivate env_name``
 * Linux and macOS: ``source activate env_name`` or ``source deactivate env_name``
 
-## Creating an environment with commands
+### Creating an environment with commands
 
 ```bash
 conda create --name myenv
@@ -101,26 +101,26 @@ conda install -n myenv scipy
 You can add much more to the ``conda create`` command. 
 For details, run ``conda create --help``.
 
-###Verify that the new environment was installed correctly:
+### Verify that the new environment was installed correctly:
 ```bash
 conda env list
 ```
 You can also use ``conda info --envs``.
  
  
-## Ativating an environment
+### Activating an environment
 
 Activating environments is essential to making the software in the environments
 work well. To activate an environment: `activate myenv` for windows and
 `source activate myenv` for linux and macOS.
 
-## Deactivating an environment
+### Deactivating an environment
 
 To deactivate an environment, type: `deactivate` on windows 
 (`source deactivate` on linux and macOS)
 
-Using pip in an environment
-===========================
+### Using pip in an environment
+
 
 To use pip in your environment, in your terminal window or an
 Anaconda Prompt, run:
