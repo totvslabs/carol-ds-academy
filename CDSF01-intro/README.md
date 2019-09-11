@@ -35,3 +35,23 @@ It is possible to install using command line. Please follow the instruction from
 
 ## Installing on linux
 Follow the instruction from the  [website](https://docs.anaconda.com/anaconda/install/linux/)
+
+## Verifying your installation
+You can confirm that Anaconda is installed and working with Anaconda Navigator or conda.
+
+You can also use conda in a terminal, command prompt on Windows or terminal on Linux or macOS).
+On Windows, there is an option of using Anaconda Prompt (Click Start, select Anaconda Prompt)
+
+After opening Anaconda prompt (terminal on Linux or macOS), choose any of the following methods:
+
+Enter a command such as `conda list`. If Anaconda is installed and working, this will display a 
+list of installed packages and their versions.
+Enter the command `python`. This command runs the Python shell.
+ If Anaconda is installed and working, the version information it displays when it 
+ starts up will include “Anaconda”. To exit the Python shell, enter the command `quit()`.
+Open Anaconda Navigator with the command anaconda-navigator. 
+If Anaconda is installed properly, the graphical program Anaconda Navigator will open.
+
+# Jupyter Notebooks
+
+We are going to use jupyter notebooks during the lessons.
