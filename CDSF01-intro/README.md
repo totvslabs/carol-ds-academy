@@ -7,7 +7,7 @@ It helps to avoid problems during the installation process of some packages.
 ## Installing on Windows
 
 Download the last version from [Anaconda website]( https://www.anaconda.com/distribution/#windows). Always use python 3+.
-[python 2.7](https://pythonclock.org/) will not be maintained past 2020. 
+[python 2.7](https://pythonclock.org/) will not be maintained past 2020. Also, rememeber to check if your machine is x32 or x64 and download the compatible one. 
 
 To install it is easy, double click the installer to launch. Follow the instructions. During the installation it will be
 shown a message to add Anaconda to the PATH. I recommend to select this option if this is the first python distribution
