@@ -137,7 +137,7 @@ pip <pip_subcommand>
 It is possible to create a kernel on jupyter with a conda environment. To do so, 
 
 ```bash
-conda install -n myenv
+conda create -n myenv
 conda activate myenv
 conda install -n myenv ipykernel
 python -m ipykernel install --user --name myenv --display-name "My env kernel"
