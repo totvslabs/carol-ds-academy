@@ -55,7 +55,7 @@ You can also use git to create a folder with a local repository
 
 `git init <folder>`
 
-[]("render1568762028353.gif")
+[]("images/render1568762028353.gif")
 
 ### Understanding Git philosophy
 
@@ -89,7 +89,7 @@ Remove file from repository
 
 `git rm [--cached] <file>`
 
-[]("render1568763039432.gif")
+[]("images/render1568763039432.gif")
 
 ### Repository operation in a git repository
 
@@ -105,7 +105,7 @@ Checkout Stage to Repository
 
 `git checkout <commit id|branch|tag>`
 
-[]("render1568776290681.gif")
+[]("images/render1568776290681.gif")
 
 ### Tags (A.K.A. Versions)
 
