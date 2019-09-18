@@ -155,3 +155,14 @@ This will create a new option of kernel in the jupyter lab
 conda deactivate
 jupyter kernelspec uninstall myenv
 ```
+
+
+# Troubleshooting
+1. Anaconda People are having problems with windowns installer. 
+![alt text](images/install_problem.png)
+
+If this happens, try to install the version x32 instead of the x64. 
+
+
+2. Anacaonda navegator does not appear to be installed. 
+ If this happens, try to install the version x32 instead of the x64. 
