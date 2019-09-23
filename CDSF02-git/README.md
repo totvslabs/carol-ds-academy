@@ -198,18 +198,18 @@ Once merged, Pull Requests preserve a record of the historical changes to your c
 
 ### Github Workflow - Best Practices
 
-Avoid push directly do master branch
-Do git commit with the right email address
-Always use pull requests and ask for code reviews
-Create a meaningful git ignore file (https://www.gitignore.io/)
-Don't commit without a good commit message (see https://www.conventionalcommits.org/)
-Be nice, review code, ask for code review
+- Avoid push directly do master branch
+- Do git commit with the right email address
+- Always use pull requests and ask for code reviews
+- Create a meaningful git ignore file (https://www.gitignore.io/)
+- Don't commit without a good commit message (see https://www.conventionalcommits.org/)
+- Be nice, review code, ask for code review
 
 ## Read More
 
-Git Pro eBook - https://git-scm.com/book/en/v2
-Visual Git Reference - http://marklodato.github.io/visual-git-guide/index-en.html
-Visualizing Git Concepts with D3 - http://onlywei.github.io/explain-git-with-d3/
-Git Visual CheatSheet - http://ndpsoftware.com/git-cheatsheet.html
-GitHub Documentation - https://help.github.com/en#dotcom
+- Git Pro eBook - https://git-scm.com/book/en/v2
+- Visual Git Reference - http://marklodato.github.io/visual-git-guide/index-en.html
+- Visualizing Git Concepts with D3 - http://onlywei.github.io/explain-git-with-d3/
+- Git Visual CheatSheet - http://ndpsoftware.com/git-cheatsheet.html
+- GitHub Documentation - https://help.github.com/en#dotcom
 
