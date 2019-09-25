@@ -108,21 +108,6 @@ venv.bak/
 
 .gitignore
 .idea/
-tests/Order.json
-tests/OrderItem.json
-tests/OrderItem2.json
-deleee.py
-tests/query_result.json
-tests/results_json.json
-tests/schemaGenerator_back.py
-tests/staging_result.json
-tests/test2.json
-tests/teste.json
-tests/teste_pack.ipynb
-tests/testes.ipynb
-tests/testes_pack.py
-app_config.json
 **/.DS_Store
 .vscode
-query_result.json
 cov.xml
