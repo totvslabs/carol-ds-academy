@@ -28,5 +28,5 @@ The data and tho notebooks are from [3] and [4]
 
 [1] [pandas docummentation](https://pandas.pydata.org/pandas-docs/stable/)  
 [2] [pydata](https://pandas.pydata.org/)  
-[3] [pandas-intro] (https://github.com/treehouse-projects/python-introducing-pandas)
-[4] [cs109] (https://github.com/cs109/2015lab1)
+[3] [intro-intro](https://github.com/treehouse-projects/python-introducing-pandas)
+[4] [cs109](https://github.com/cs109/2015lab1)
