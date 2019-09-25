@@ -21,8 +21,12 @@ In this class we will present the main funcionalities for `pandas`. We named the
 
 In the folder `resources` one can find a `python`, a `pandas` and a `matplotlib` cheat sheet.
 
+The data and tho notebooks are from [3] and [4] 
+
+
 # Reference
 
 [1] [pandas docummentation](https://pandas.pydata.org/pandas-docs/stable/)  
 [2] [pydata](https://pandas.pydata.org/)  
-
+[3] [pandas-intro] (https://github.com/treehouse-projects/python-introducing-pandas)
+[4] [cs109] (https://github.com/cs109/2015lab1)
