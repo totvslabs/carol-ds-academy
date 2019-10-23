@@ -1,6 +1,6 @@
 # carol-ds-academy
 
-## Recaps schedule. 
+## Academy Schedule. 
 
 | Code         | Subject                                                                   | Date       |
 |--------------|---------------------------------------------------------------------------|------------|
