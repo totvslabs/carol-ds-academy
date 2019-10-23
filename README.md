@@ -29,3 +29,4 @@
 | CDSF18       | Best Practices                                                            |prerecorded|
 | Encerramento | Next steps - Mastering Carol                                              | 12/11/2019 |
 
+All classes are from 18:00 to 19:30 UTC-3.
