@@ -1,9 +1,14 @@
 # carol-ds-academy
 
-##Recaps schedule. 
+## Recaps schedule. 
 
-| CDSF04       | Pandas, SQL, and the Grammar of Data                                      |            |
+| Code         | Subject                                                                   | Date       |
 |--------------|---------------------------------------------------------------------------|------------|
+| CDSF01       | Getting your environment ready: Python, Jupyter and Github Windows e Mac  | 09/11/2019 |
+| CDSF02       | Git - The basics                                                          | 09/18/2019 |
+| CDSF03       | Pandas - Overview                                                         | 09/25/2019 |
+| Recap        | Recap 01                                                                  | 10/02/2019 |
+| CDSF04       | Pandas, SQL, and the Grammar of Data                                      |            |
 | CDSF05       | Statistical Model                                                         |            |
 | CDSF06       | Probability, Distributions, and Frequentist Statistics                    |            |
 | Recap        | Recap 02                                                                  | 10/15/2019 |
@@ -23,3 +28,5 @@
 | CDSF17       | Ensemble Methods                                                          |            |
 | CDSF18       | Best Practices                                                            |            |
 | Encerramento | Next steps - Mastering Carol                                              | 11/12/2019 |
+
+Classes without date are the Harvard content.  
