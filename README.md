@@ -1,5 +1,8 @@
 # carol-ds-academy
 
+# Important! 
+Due to the TOTVS's event: "Festival de Impacto Social" we will be having our Recap 5 on Wednesday (06/11/2019).
+
 ## Academy Schedule. 
 
 | Code         | Subject                                                                   | Date       |
@@ -24,7 +27,7 @@
 | CDSF14       | Decision Trees and Random Forests                                         |prerecorded|
 | CDSF15       | Machine Learning 2 Part 1                                                 |prerecorded|
 | CDSF16       | Machine Learning 2 Part 2                                                 |prerecorded|
-| Recap        | Recap 05                                                                  | 05/11/2019  |
+| Recap        | Recap 05                                                                  | 06/11/2019  |
 | CDSF17       | Ensemble Methods                                                          |prerecorded|
 | CDSF18       | Best Practices                                                            |prerecorded|
 | Encerramento | Next steps - Mastering Carol                                              | 12/11/2019 |
