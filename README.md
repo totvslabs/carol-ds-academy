@@ -1,7 +1,8 @@
 # carol-ds-academy
 
 # Important! 
-Due to the TOTVS's event: "Festival de Impacto Social" we will be having our Recap 5 on Wednesday (06/11/2019).
+
+Mastering in Carol is already avalible on Universidade TOTVS. 
 
 ## Academy Schedule. 
 
