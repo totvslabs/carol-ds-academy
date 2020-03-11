@@ -3,6 +3,7 @@
 # Important! 
 
 Mastering in Carol is already avalible on Universidade TOTVS. 
+https://universidadetotvs.com.br/skin/atena/home
 
 ## Academy Schedule. 
 
